@@ -1,0 +1,48 @@
+
+
+.headerContainer {
+    width: 100%;
+    justify-content:space-between;
+    align-items: center;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
+  
+  
+  .header{
+    background-color: rgb(93, 203, 168);
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    
+  }
+  
+  .brand {
+  color: rgb(252, 235, 252);
+  width: 110px;
+  
+  padding: 10px;
+  border-radius: 100%;
+  font-family: 'Dancing Script', cursive;
+  }
+  
+  .navbar {
+    background-color:rgb(64, 131, 110) ;
+    width: 100%;
+    list-style: none;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+   
+  
+  .logo {
+    border-radius: 100%;
+    width: 7%;
+    height: 7%;
+  }

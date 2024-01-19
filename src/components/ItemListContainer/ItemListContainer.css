@@ -1,0 +1,25 @@
+
+
+.contenedorListaDeProductos{
+    background-color:rgb(64, 131, 110) ;
+    list-style: none;
+    font-size: 20px;
+    display:contents;
+    justify-content: space-around;
+    align-items:center;
+    padding: 30px;
+    height: 100%;
+    max-height: 100%;
+  }
+  
+  .listaDeProductos{
+    background-color:rgb(64, 131, 110) ;
+    list-style: none;
+    font-size: 20px;
+    width: 170px;
+    color: beige;
+    align-items:center;
+    padding: 30px;
+  
+  }
+  
